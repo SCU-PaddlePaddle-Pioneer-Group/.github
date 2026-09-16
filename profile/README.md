@@ -2,7 +2,7 @@
 
 <img src="./assets/scu-paddlepaddle-logo.png" width="180" alt="四川大学百度飞桨领航团团标" />
 
-# 🐼 四川大学飞桨领航团
+# 四川大学飞桨领航团
 
 ### SCU PaddlePaddle Pioneer Group
 
